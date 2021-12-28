@@ -8,3 +8,12 @@ copiar e colar no terminal esse comando:
 
 em outro terminal executar:
 ``expo start``
+
+
+*Tecnologias utilizas*:
+- React-Native
+- Expo
+- Styled-Components
+- Lottie-React-Native
+- Axios
+- React-Native-Calendars
